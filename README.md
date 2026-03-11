@@ -30,6 +30,10 @@ PHP
 3. Abrir la terminal integrada.
 4. Ejecutar el programa.
 
+PD: El juego también posee un archivo .xlsx que contiene una estructura de datos de los arreglos. Por último, para ejecutarlo es importante saber que el archivo/código "memoria.php" está incluido en el archivo/código "programaEliaJañez.php"; por lo tanto, es necesario tener ambos archivos para que el programa pueda ejecutarse correctamente.
+
+El programa "memoria.php" es donde se encuentra el juego como tal, y "programaEliaJañez.php" es donde se encuentra el menú de opciones y los registros de dicho juego.
+
 ## El juego se ejecutará en la terminal y el usuario podrá interactuar con el menú de opciones siguiendo las instrucciones que aparecen en pantalla.
 
 ## English Summary
@@ -63,5 +67,9 @@ PHP
 2. Open the project folder in Visual Studio Code.
 3. Open the integrated terminal.
 4. Run the program.
+
+PS: The game also includes an .xlsx file that contains a data structure of the arrays. Finally, in order to run it, it is important to know that the file/code "memoria.php" is included in the file/code "programaEliaJañez.php"; therefore, both files must be present for the program to run correctly.
+
+The program "memoria.php" is where the actual game is located, while "programaEliaJañez.php" contains the options menu and the records of the game.
 
 ## The game will run in the terminal, and the user can interact with the options menu by following the instructions displayed on the screen.
