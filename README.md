@@ -1,0 +1,67 @@
+## Resumen en español
+
+**Nombre del proyecto:** Juego de memoria
+
+**Descripción:**  
+Juego de memoria basado en encontrar pares de figuras iguales para generar puntajes.  
+El programa incluye un menú de opciones donde cada opción permite visualizar diferentes registros de las partidas jugadas.
+También pueden observarse las consignas del trabajo en el documento adjunto entre los archivos del proyecto.
+
+**Lenguaje de programación utilizado:**  
+PHP
+
+**Estructuras de programación utilizadas:**  
+- Algoritmos secuenciales  
+- Modularización  
+- Estructuras repetitivas  
+- Estructuras condicionales (alternativas)  
+- Arreglos
+
+**Lo que aprendí:**  
+- Mayor experiencia en trabajo en equipo.  
+- Mayor experiencia utilizando diferentes estructuras básicas de programación en PHP.  
+- Uso de arreglos y comprensión de su teoría y aplicación práctica.  
+- Defensa y explicación del proyecto de manera oral.
+
+## Cómo ejecutar el programa
+
+1. Clonar este repositorio.
+2. Abrir la carpeta del proyecto en Visual Studio Code.
+3. Abrir la terminal integrada.
+4. Ejecutar el programa.
+
+## El juego se ejecutará en la terminal y el usuario podrá interactuar con el menú de opciones siguiendo las instrucciones que aparecen en pantalla.
+
+## English Summary
+
+**Project name:** Memory Game
+
+**Description:**  
+A memory game where players must match pairs of identical figures to earn points.  
+The program includes an options menu where each option displays different records of previously played games.
+The assignment instructions can also be found in the document included in the project files.
+
+**Programming language used:**  
+PHP
+
+**Programming structures used:**  
+- Sequential algorithms  
+- Modularization  
+- Repetition structures (loops)  
+- Conditional structures  
+- Arrays
+
+**What I learned:**  
+- Greater experience working in teams.  
+- More experience using different basic programming structures in PHP.  
+- Practical use of arrays and understanding their theoretical concepts.  
+- Presenting and explaining the project orally.
+
+## How to run the program
+
+1. Clone this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open the integrated terminal.
+4. Run the program.
+
+## The game will run in the terminal, and the user can interact with the options menu by following the instructions displayed on the screen.
