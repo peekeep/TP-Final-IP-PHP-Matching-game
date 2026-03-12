@@ -20,7 +20,8 @@ PHP
 **What I learned:**  
 - Greater experience working in teams.  
 - More experience using different basic programming structures in PHP.  
-- Practical use of arrays and understanding their theoretical concepts.  
+- Practical use of arrays and understanding their theoretical concepts.
+- Code documentation.  
 - Presenting and explaining the project orally.
 
 ## How to run the program
@@ -58,7 +59,8 @@ PHP
 **Lo que aprendí:**  
 - Mayor experiencia en trabajo en equipo.  
 - Mayor experiencia utilizando diferentes estructuras básicas de programación en PHP.  
-- Uso de arreglos y comprensión de su teoría y aplicación práctica.  
+- Uso de arreglos y comprensión de su teoría y aplicación práctica.
+- Documentación de código.
 - Defensa y explicación del proyecto de manera oral.
 
 ## Cómo ejecutar el programa
